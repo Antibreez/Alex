@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source name="Rails Alex: development" uuid="24decbdf-066b-4bd6-8f51-49f9bc0f8eb7">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source name="Rails Alex: production" uuid="09203e24-090d-48d6-b582-0775bce96b6a">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source name="Rails Alex: test" uuid="c5efaf43-0bbf-4af7-94a1-5d53523e59d7">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>
